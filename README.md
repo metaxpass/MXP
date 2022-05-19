@@ -17,6 +17,8 @@ Bscscan: https://bscscan.com/token/0xA92c4b5d1D0a8bdd03CCca26d99b6E7c1Bdf43b8
 
 Website: https://www.metaxpass.io/
 
+Email: info@metaxpass.io
+
 Twitter: https://twitter.com/MetaXpass
 
 Telegram 1: https://t.me/MetaXPass
