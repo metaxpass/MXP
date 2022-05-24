@@ -1,4 +1,4 @@
-# MXP
+# Meta XPass [MXP]
 Meta XPass, a utility token based on Binance Smart Chain with a Play-to-Earn game project.
 
 **Token Details**
@@ -7,7 +7,7 @@ Token Name: Meta XPass
 
 Token Symbol: MXP
 
-Total Supply: 100,000,000
+Total Supply: 100,000,000 MXP
 
 Contract Address: 0xA92c4b5d1D0a8bdd03CCca26d99b6E7c1Bdf43b8
 
@@ -24,6 +24,10 @@ Twitter: https://twitter.com/MetaXpass
 Telegram 1: https://t.me/MetaXPass
 
 Telegram 2: https://t.me/MetaXpassCommunity
+
+Instagram: https://www.instagram.com/metaxpass/
+
+Facebook:https://www.facebook.com/MetaXPass
 
 Discord: https://discord.gg/5mB5d72yK8
 
