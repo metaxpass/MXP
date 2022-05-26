@@ -19,6 +19,8 @@ Website: https://www.metaxpass.io/
 
 Email: info@metaxpass.io
 
+**Socials**
+
 Twitter: https://twitter.com/MetaXpass
 
 Telegram 1: https://t.me/MetaXPass
@@ -27,7 +29,9 @@ Telegram 2: https://t.me/MetaXpassCommunity
 
 Instagram: https://www.instagram.com/metaxpass/
 
-Facebook:https://www.facebook.com/MetaXPass
+Facebook: https://www.facebook.com/MetaXPass
+
+YouTube: https://www.youtube.com/channel/UCnD5Pzypb7zkEZh4P272xVA
 
 Discord: https://discord.gg/5mB5d72yK8
 
